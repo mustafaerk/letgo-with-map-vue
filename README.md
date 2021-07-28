@@ -1,24 +1,15 @@
 # letgo-with-map-vue
 
+This is for I wanted to see letgo products on map and when I check response their API I saw letgo has lat,lng info of product then I put them to Map :)
+
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
+##  Live Demo
 ```
-npm run lint
+https://mustafaerk.github.io/letgo-with-map-vue/
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
