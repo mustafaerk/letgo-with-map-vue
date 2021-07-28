@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: "/letgo-wih-map-vue/"
+    publicPath: "/letgo-with-map-vue/"
 }
